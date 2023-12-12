@@ -1,4 +1,4 @@
 ---
-title: Magna Feugiat Lorem
-caption: Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.
+title: Race - Asian
+caption: Asian professionals discussing a new tech venture.
 ---

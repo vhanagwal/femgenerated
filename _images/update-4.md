@@ -1,4 +1,4 @@
 ---
-title: Aliquam Ipsum Sed Dolore
-caption: Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.
+title: Race - Asian
+caption: Asian executives in a financial planning session.
 ---

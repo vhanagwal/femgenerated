@@ -1,17 +1,15 @@
-title: Multiverse by HTML5 UP
-author: João Neto
-email: joao@neto.pt
+title: femgenerated
+author: Vardhan Agrawal
+email: vardhan@cs.stanford.edu
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A unique digital exhibit where technology meets critical inquiry. Our platform offers an insightful journey into the world of generative AI, exploring the subtle yet profound ways in which the prompts we use shape the AI's understanding of race, religion, national origin, age, sex, disability, and veteran status.
 
 social:
-  twitter: joaomlneto
-  facebook: joaomlneto
-  instagram: joaomlneto
-  github: joaomlneto
-  linkedin:
+  twitter: vhanagwal
+  facebook: vhanagwal
+  instagram: vhanagwal
+  github: vhanagwal
+  linkedin: vhanagwal
 
 # Build settings
 markdown: kramdown
